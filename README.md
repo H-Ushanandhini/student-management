@@ -30,4 +30,4 @@ pip install mysql-connector-python
 python app.py
 
 4. Open browser:
-http://localhost:5000
+http://localhost:5001
